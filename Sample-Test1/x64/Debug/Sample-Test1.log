@@ -1,0 +1,8 @@
+﻿  Source2.cpp
+C:\Users\User\source\repos\Sample-Test1\Sample-Test1\Source2.cpp(8,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/Source2.cpp')
+  
+C:\Users\User\source\repos\Sample-Test1\Sample-Test1\Source2.cpp(22,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/Source2.cpp')
+  
+  Sample-Test1.vcxproj -> C:\Users\User\source\repos\Sample-Test1\x64\Debug\Sample-Test1.exe
